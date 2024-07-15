@@ -82,8 +82,7 @@ Description of the project in details.
    - ex.: buttonAnimatedStyle.css
 5. Use only `External CSS`.
 6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
-7. File Structure to follow below.
-
+ 
 ```
 WD-ProjectName
 └─ assets
