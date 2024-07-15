@@ -5,8 +5,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <!-- TODO: If you want to add logo or banner you can add it here --> 
+    <img src="https://i.pinimg.com/564x/e9/3c/d8/e93cd8aa28fde43f7ec9d7523f96ed0b.jpg" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Engaging Landing Page</h3>
@@ -58,12 +58,8 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
+    - This project serves as an Activity 3, in Web Design (Client Side). This website has a total of 20 cards. The sequence is, my top 5 favorite cars, nature, place and watch.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -116,4 +112,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Pictures Of Favorites.| I personally picked here the pictures i put in here in my website. | pinterest.com |
